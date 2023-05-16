@@ -54,6 +54,7 @@ export default function App() {
             })}
           />
           {/* <Stack.Screen name="Details" component={DetailsScreen} /> */}
+          {/* updated the code */}
         </Stack.Navigator>
       </NavigationContainer>
     </DataProvider>
